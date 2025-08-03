@@ -1,0 +1,15 @@
+{
+  "dependencies": {
+    "bootstrap": "^5.3.7"
+  },
+  "name": "doctors-appointment-app",
+  "version": "1.0.0",
+  "description": "React.js  \r React Router DOM  \r Bootstrap   \r Node.js  \r Express.js",
+  "main": "index.js",
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC"
+}

@@ -1,0 +1,162 @@
+[
+  {
+    "id": "1",
+    "name": "Dr. Aisha Verma",
+    "specialization": "Cardiologist",
+    "status": "Available Today",
+    "image": "https://randomuser.me/api/portraits/men/1.jpg",
+    "availability": ["9:00 AM", "11:30 AM", "3:00 PM"]
+  },
+  {
+    "id": "2",
+    "name": "Dr. Rahul Mehta",
+    "specialization": "Dermatologist",
+    "status": "On Leave",
+    "image": "https://via.placeholder.com/151",
+    "availability": []
+  },
+  {
+    "id": "3",
+    "name": "Dr. Sneha Kapoor",
+    "specialization": "Pediatrician",
+    "status": "Fully Booked",
+    "image": "https://via.placeholder.com/152",
+    "availability": []
+  },
+  {
+    "id": "4",
+    "name": "Dr. Arjun Rao",
+    "specialization": "Orthopedic",
+    "status": "Available Today",
+    "image": "https://via.placeholder.com/153",
+    "availability": ["10:00 AM", "2:00 PM"]
+  },
+  {
+    "id": "5",
+    "name": "Dr. Neha Singh",
+    "specialization": "Gynecologist",
+    "status": "Available Today",
+    "image": "https://via.placeholder.com/154",
+    "availability": ["11:00 AM", "1:00 PM", "4:00 PM"]
+  },
+  {
+    "id": "6",
+    "name": "Dr. Karan Malhotra",
+    "specialization": "Neurologist",
+    "status": "Fully Booked",
+    "image": "https://via.placeholder.com/155",
+    "availability": []
+  },
+  {
+    "id": "7",
+    "name": "Dr. Tara Joshi",
+    "specialization": "Psychiatrist",
+    "status": "On Leave",
+    "image": "https://via.placeholder.com/156",
+    "availability": []
+  },
+  {
+    "id": "8",
+    "name": "Dr. Manish Kumar",
+    "specialization": "ENT Specialist",
+    "status": "Available Today",
+    "image": "https://via.placeholder.com/157",
+    "availability": ["9:30 AM", "12:30 PM"]
+  },
+  {
+    "id": "9",
+    "name": "Dr. Ritu Sharma",
+    "specialization": "Dentist",
+    "status": "Available Today",
+    "image": "https://via.placeholder.com/158",
+    "availability": ["10:00 AM", "3:00 PM"]
+  },
+  {
+    "id": "10",
+    "name": "Dr. Rajeev Pillai",
+    "specialization": "Urologist",
+    "status": "Fully Booked",
+    "image": "https://via.placeholder.com/159",
+    "availability": []
+  },
+  {
+    "id": "11",
+    "name": "Dr. Leela Nair",
+    "specialization": "Oncologist",
+    "status": "Available Today",
+    "image": "https://via.placeholder.com/160",
+    "availability": ["11:00 AM", "2:30 PM"]
+  },
+  {
+    "id": "12",
+    "name": "Dr. Vikram Desai",
+    "specialization": "Endocrinologist",
+    "status": "On Leave",
+    "image": "https://via.placeholder.com/161",
+    "availability": []
+  },
+  {
+    "id": "13",
+    "name": "Dr. Pooja Reddy",
+    "specialization": "Rheumatologist",
+    "status": "Available Today",
+    "image": "https://via.placeholder.com/162",
+    "availability": ["1:30 PM", "4:30 PM"]
+  },
+  {
+    "id": "14",
+    "name": "Dr. Anil Shah",
+    "specialization": "General Physician",
+    "status": "Available Today",
+    "image": "https://via.placeholder.com/163",
+    "availability": ["10:00 AM", "12:00 PM", "6:00 PM"]
+  },
+  {
+    "id": "15",
+    "name": "Dr. Meera Iyer",
+    "specialization": "Ophthalmologist",
+    "status": "Fully Booked",
+    "image": "https://via.placeholder.com/164",
+    "availability": []
+  },
+  {
+    "id": "16",
+    "name": "Dr. Ravi Prasad",
+    "specialization": "Gastroenterologist",
+    "status": "Available Today",
+    "image": "https://via.placeholder.com/165",
+    "availability": ["9:00 AM", "12:00 PM"]
+  },
+  {
+    "id": "17",
+    "name": "Dr. Ananya Dubey",
+    "specialization": "Allergist",
+    "status": "On Leave",
+    "image": "https://via.placeholder.com/166",
+    "availability": []
+  },
+  {
+    "id": "18",
+    "name": "Dr. Harsh Sinha",
+    "specialization": "Nephrologist",
+    "status": "Available Today",
+    "image": "https://via.placeholder.com/167",
+    "availability": ["2:00 PM", "5:00 PM"]
+  },
+  {
+    "id": "19",
+    "name": "Dr. Ishita Ghosh",
+    "specialization": "Hematologist",
+    "status": "Fully Booked",
+    "image": "https://via.placeholder.com/168",
+    "availability": []
+  },
+  {
+    "id": "20",
+    "name": "Dr. Zain Siddiqui",
+    "specialization": "Pulmonologist",
+    "status": "Available Today",
+    "image": "https://via.placeholder.com/169",
+    "availability": ["8:30 AM", "10:30 AM"]
+  }
+]
